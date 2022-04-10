@@ -2,3 +2,5 @@ Ajong resolusi
 - Java android
 - python deep learning
 - python machine learning
+- bisa pake git
+- belajar
