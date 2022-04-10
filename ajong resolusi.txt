@@ -3,4 +3,4 @@ Ajong resolusi
 - python deep learning
 - python machine learning
 - bisa pake git
-- belajar
+- menggunakan js
